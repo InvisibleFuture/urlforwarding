@@ -1,0 +1,26 @@
+{
+  "name": "urlforwarding",
+  "version": "1.0.0",
+  "description": "URL forwarding",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/InvisibleFuture/urlforwarding.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/InvisibleFuture/urlforwarding/issues"
+  },
+  "homepage": "https://github.com/InvisibleFuture/urlforwarding#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "export": "^0.1.337",
+    "express": "^4.17.1",
+    "nedb": "^1.8.0"
+  }
+}
